@@ -1,1 +1,1 @@
-/etc/passwd script
+My first shell redirectionsscripts
