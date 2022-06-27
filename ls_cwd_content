@@ -1,0 +1,15 @@
+total 28
+drwxr-xr-x 7 root root  258 Jun 27 03:55 .
+drwxr-xr-x 1 root root  173 Jun 22 09:08 ..
+-rw-r--r-- 1 root root   21 Jun 23 03:20 0-iam_betty
+drwxr-xr-x 2 root root    6 Jun 22 12:19 0x00-shell_basic
+drwxr-xr-x 2 root root 4096 Jun 22 16:17 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Jun 24 03:00 0x01-shell_permissions
+drwxr-xr-x 2 root root  178 Jun 27 03:44 0x02-shell_redirections
+-rw-r--r-- 1 root root   17 Jun 27 02:57 1-confused_smiley
+-rw-r--r-- 1 root root   19 Jun 23 03:23 1-who_am_i
+-rwxr--r-- 1 root root   36 Jun 27 03:54 8-cwd_state
+drwxr-xr-x 8 root root  166 Jun 27 03:47 .git
+-rw-r--r-- 1 root root    0 Jun 27 03:55 ls_cwd_content
+-rw-r--r-- 1 root root    0 Jun 27 03:00 md
+-rw-r--r-- 1 root root   16 Jun 27 03:00 README.md
