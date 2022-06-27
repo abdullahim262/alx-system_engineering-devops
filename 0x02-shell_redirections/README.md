@@ -1,1 +1,1 @@
-Script that displays confused smiley
+/etc/passwd script
